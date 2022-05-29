@@ -3,7 +3,9 @@ b = "David"
 i = {"name": "aviel"}
 c = a + " " + b
 d = f"{i['name']} {b}"
-e = "%s %s" % (a, b)
+e = "%s %s" % (a, b)addition
+adfasdfasdf
+
 f = "{} {}".format(a, b)
 g = 'aviel "buskila"'
 h = "aviel \"buskila\""
